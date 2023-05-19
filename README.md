@@ -1,4 +1,4 @@
-[![Solved.ac jyjung9910](http://mazassumnida.wtf/api/generate_badge?boj={jyjung9910})](https://solved.ac/{jyjung9910})
+[![Solved.ac jyjung9910](http://mazassumnida.wtf/api/generate_badge?boj=jyjung9910)](https://solved.ac/jyjung9910)
 
 <!--
 **slowlytoyou/slowlytoyou** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
